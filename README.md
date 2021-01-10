@@ -2,7 +2,7 @@
 
 My second cheap application with [react native](https://reactnative.dev/) and [expo](https://expo.io/)!
 
-![Recordit GIF](https://i.ibb.co/XzFG3bJ/ezgif-com-gif-maker-1.gif)
+![Recordit GIF](https://github.com/trixky/meals_app/blob/main/demo/gif.gif)
 
 ## Usage
 
