@@ -1,4 +1,4 @@
-# my_goals
+# meals_app
 
 My third cheap application with [react native](https://reactnative.dev/) and [expo](https://expo.io/)!
 
